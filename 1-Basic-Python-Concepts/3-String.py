@@ -1,0 +1,5 @@
+print('Hello World')
+print('He\'s a good guy')
+print("He's a good guy")
+print('He is a "good" guy')
+print("He is a \"good\" guy")
