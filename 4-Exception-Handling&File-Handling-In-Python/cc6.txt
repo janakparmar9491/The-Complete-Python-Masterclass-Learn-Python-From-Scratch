@@ -1,0 +1,2 @@
+This is first text in file.
+This is second text in file.

@@ -1,0 +1,2 @@
+This is the first text written to the file
+This is the second text written to the file
